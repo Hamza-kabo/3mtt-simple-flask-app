@@ -9,8 +9,6 @@ Web Framework: Built using Python Flask.
 
 Environment Configuration: Managed via .env files for secure credential handling.
 
-DevOps Ready: Includes basic Dockerization for consistent deployment across environments.
-
 🛠 Learning Objectives Met
 Understanding the WSGI server-client relationship.
 
