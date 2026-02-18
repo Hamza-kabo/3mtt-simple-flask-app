@@ -1,4 +1,4 @@
-#3MTT DevOps Capstone Project - Simple Flask Web Application
+3MTT DevOps Capstone Project - Simple Flask Web Application
 
 📌 Project Overview
 This repository contains the capstone project for my 3MTT DevOps Diploma. It is a lightweight Flask application designed to demonstrate the complete lifecycle of a web service, from development to deployment.
