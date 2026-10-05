@@ -1,16 +1,9 @@
-3MTT DevOps Capstone Project - Simple Flask Web Application
+# 3MTT DevOps Capstone: Simple Flask Web Application
 
-📌 Project Overview
-This repository contains the capstone project for my 3MTT DevOps Certificate. It is a lightweight Flask application that demonstrates the full lifecycle of a web service, from development to deployment.
+Capstone project for the 3 Million Technical Talent (3MTT) DevOps Certificate: a lightweight Flask application used to practise the lifecycle of a web service, from development to automated testing.
 
-⚙️ Key Features
-Web Framework: Built using Python Flask.
-
-Environment Configuration: Managed via .env files for secure credential handling.
-
-🛠 Learning Objectives Met
-Understanding the WSGI server-client relationship.
-
-Managing Python dependencies with pip.
-
-Structuring a web application for scalable deployment.
+## Features
+- Flask web application with HTML templates
+- Automated tests (`test_app.py`)
+- GitHub Actions workflow that runs on every push
+- Environment variables through `.env` files for credentials
